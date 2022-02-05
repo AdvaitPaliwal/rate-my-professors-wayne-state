@@ -17,7 +17,7 @@
 1. Drag the `rate-my-professors-wayne-state-main` folder anywhere on the page to import it (do not delete the folder afterwards).
 
 ## Usage
-* Pin the extension and click the&nbsp;&nbsp;<img width="17" alt="Wayne" src="https://user-images.githubusercontent.com/66044327/141031137-907370ae-2254-43b7-a828-c03291824ea6.png">&nbsp;&nbsp;icon when on the [registration page](https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration) to activate the ratings.
+* Pin the extension and click the&nbsp;&nbsp;<img width="17" alt="Wayne" src="https://user-images.githubusercontent.com/66044327/141031137-907370ae-2254-43b7-a828-c03291824ea6.png">&nbsp;&nbsp;icon when you're on the [registration page](https://registration.wayne.edu/StudentRegistrationSsb/ssb/classRegistration/classRegistration) to activate the ratings.
 
 ## Notes
 * Reinstall the extension after any new commits.
